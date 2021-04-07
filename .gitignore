@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/TX1_QuanLySinhVien-jkt6-4/nbproject/private/
+/TX2_QuanLySinhVien-jkt6-4/nbproject/private/
+/TX2_QuanLySinhVien-jkt6-4/build/
+/TX2_QLSVGUI_ca1/build/
+/TX2_QLSVGUI_ca1/nbproject/private/
